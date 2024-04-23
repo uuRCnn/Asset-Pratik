@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cad01c8843a403f43b691733ae2fd746
+labels:
+- TVE Prefab
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159647
+  packageName: The Vegetation Engine
+  packageVersion: 12.5.0
+  assetPath: Assets/BOXOPHOBIC/The Vegetation Engine/Demo/Prefabs/TVE_TreeIt.prefab
+  uploadId: 643001

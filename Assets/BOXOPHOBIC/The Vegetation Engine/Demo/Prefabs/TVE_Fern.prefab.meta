@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 620685b490f146ff966d7fb0e4195507
+labels:
+- TVE Prefab
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159647
+  packageName: The Vegetation Engine
+  packageVersion: 12.5.0
+  assetPath: Assets/BOXOPHOBIC/The Vegetation Engine/Demo/Prefabs/TVE_Fern.prefab
+  uploadId: 643001

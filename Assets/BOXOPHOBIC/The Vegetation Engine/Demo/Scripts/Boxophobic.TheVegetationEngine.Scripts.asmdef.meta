@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 248f08a15c7ab464d805d2776e5f0859
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159647
+  packageName: The Vegetation Engine
+  packageVersion: 12.5.0
+  assetPath: Assets/BOXOPHOBIC/The Vegetation Engine/Demo/Scripts/Boxophobic.TheVegetationEngine.Scripts.asmdef
+  uploadId: 643001

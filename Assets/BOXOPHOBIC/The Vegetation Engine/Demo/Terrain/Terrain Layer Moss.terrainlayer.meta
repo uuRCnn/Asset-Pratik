@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 35950a3a66d8cdd429fa0d453f50d063
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159647
+  packageName: The Vegetation Engine
+  packageVersion: 12.5.0
+  assetPath: Assets/BOXOPHOBIC/The Vegetation Engine/Demo/Terrain/Terrain Layer Moss.terrainlayer
+  uploadId: 643001

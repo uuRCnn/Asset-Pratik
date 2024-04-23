@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 08678afb534f4bf2b0bb2b4eeacff7f4
+labels:
+- TVE Prefab
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159647
+  packageName: The Vegetation Engine
+  packageVersion: 12.5.0
+  assetPath: Assets/BOXOPHOBIC/The Vegetation Engine/Demo/Prefabs/TVE_Pine_02.prefab
+  uploadId: 643001

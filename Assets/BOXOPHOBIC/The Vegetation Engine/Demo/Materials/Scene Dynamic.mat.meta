@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2a2bf26e895a1e643a133fa03cebf3ce
+timeCreated: 1574339474
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159647
+  packageName: The Vegetation Engine
+  packageVersion: 12.5.0
+  assetPath: Assets/BOXOPHOBIC/The Vegetation Engine/Demo/Materials/Scene Dynamic.mat
+  uploadId: 643001

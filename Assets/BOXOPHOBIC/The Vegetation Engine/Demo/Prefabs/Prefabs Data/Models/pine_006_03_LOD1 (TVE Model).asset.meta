@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f4d69f203dd64ca0b3559254d7199269
+labels:
+- TVE Model
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159647
+  packageName: The Vegetation Engine
+  packageVersion: 12.5.0
+  assetPath: Assets/BOXOPHOBIC/The Vegetation Engine/Demo/Prefabs/Prefabs Data/Models/pine_006_03_LOD1
+    (TVE Model).asset
+  uploadId: 643001

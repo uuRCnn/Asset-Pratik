@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 29285108bed5ed54180fe52b5bfdfb5d
+labels:
+- TVE Prefab
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159647
+  packageName: The Vegetation Engine
+  packageVersion: 12.5.0
+  assetPath: Assets/BOXOPHOBIC/The Vegetation Engine/Demo/Prefabs/TVE_Grass_02_Detail.prefab
+  uploadId: 643001

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b41f33c62720e434da543ac3375e9f8f
+labels:
+- TVE Model
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159647
+  packageName: The Vegetation Engine
+  packageVersion: 12.5.0
+  assetPath: Assets/BOXOPHOBIC/The Vegetation Engine/Demo/Prefabs/Prefabs Data/Models/RedBush_Var1_LOD0
+    (TVE Model).asset
+  uploadId: 643001

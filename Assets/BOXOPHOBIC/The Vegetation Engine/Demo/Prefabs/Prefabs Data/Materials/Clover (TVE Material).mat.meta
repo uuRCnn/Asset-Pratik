@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 21f658f7317617744bbc2f52669f3aa7
+labels:
+- TVE Material
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159647
+  packageName: The Vegetation Engine
+  packageVersion: 12.5.0
+  assetPath: Assets/BOXOPHOBIC/The Vegetation Engine/Demo/Prefabs/Prefabs Data/Materials/Clover
+    (TVE Material).mat
+  uploadId: 643001

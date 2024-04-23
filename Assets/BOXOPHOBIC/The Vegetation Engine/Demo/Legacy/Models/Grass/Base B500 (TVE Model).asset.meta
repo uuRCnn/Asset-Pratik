@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 192b5972670c9054fad1ba5eb72864c5
+labels:
+- TVE Model
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159647
+  packageName: The Vegetation Engine
+  packageVersion: 12.5.0
+  assetPath: Assets/BOXOPHOBIC/The Vegetation Engine/Demo/Legacy/Models/Grass/Base
+    B500 (TVE Model).asset
+  uploadId: 643001
